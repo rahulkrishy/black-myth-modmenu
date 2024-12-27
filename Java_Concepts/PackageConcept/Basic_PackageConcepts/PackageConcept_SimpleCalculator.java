@@ -85,7 +85,7 @@ import AdvOperation.AdvLevel2_Operation;
 public class PackageConcept_SimpleCalculator {
     public static void main(String[] args) {
 
-        // Creating an object of Level2_Operation class from BasicOperation package
+        // Creating an object of Level2_Operation class from BasicOperation package(Level 2 inherits Level 1)
         Level2_Operation obj1 = new Level2_Operation();
 
         // Performing basic operations
